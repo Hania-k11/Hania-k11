@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hania Khan</h1>
-<h3 align="center">A passionate Computer Science Student from Pakistan</h3>
+<h3 align="center">A passionate Computer Science Graduate from Pakistan</h3>
 
 
 <h3 align="left">Connect with me:</h3>
